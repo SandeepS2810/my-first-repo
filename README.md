@@ -1,2 +1,2 @@
-# my-first-repo
-Practice account for learning git
+# Sandeep_Sanagala
+Version Control from Meta
